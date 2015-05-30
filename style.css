@@ -1,0 +1,27 @@
+body, html{
+	margin: 0;
+	padding:0;
+}
+
+#wrapper{
+	height:100%;
+	width:100%;
+	position: absolute;
+	background-color: blue;
+}
+
+
+.box{
+	position: relative;
+	background-color: green;
+
+	float: left;
+	border: solid black 2px;
+
+}
+.break{
+	width: 0px;
+	height: 0px;
+	background-color: red;
+}
+
